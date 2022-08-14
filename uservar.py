@@ -13,11 +13,11 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
-BUILDERNAME = 'OpenWizard'
+ADDONTITLE = '[COLOR blue][B]BittenWizard[/B][/COLOR]'
+BUILDERNAME = 'Abittencookie'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://www.dropbox.com/s/bo30uzs6mub6rrh/builds.txt?dl=0'
+BUILDFILE = 'https://www.dropbox.com/s/ajoxt2e8ffnegcn/wizard.txt?dl=0'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
