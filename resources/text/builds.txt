@@ -1,4 +1,4 @@
-id="plugin.program.bittenwizard"
+id="plugin.program.snypawizard"
 version="1.0"
 zip="https://www.dropbox.com/scl/fi/8j4obnvbdpxypy65ds0xd/wizardtext?rlkey=f98fu9lv0sa606gyybfpvwg36&dl=1"
 
